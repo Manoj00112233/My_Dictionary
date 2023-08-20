@@ -4,7 +4,7 @@ let hist = document.getElementById("history");
 let main = document.querySelector(".maindiv");
 main.style.borderRadius = "20px";
 
-let imgTag = document.getElementById('dlt');
+let imgTag = document.getElementById('dlt'); //delete btn image
 
 
 hist.addEventListener("click", () => {
